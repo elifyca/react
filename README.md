@@ -1,3 +1,3 @@
 
 
-"homepage": "https://elifyca.github.io/React-Tour-Project",
+"homepage": "https://elifyca.github.io/react-tour-project",
